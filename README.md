@@ -1,6 +1,6 @@
-# 777373
+# 661982_A25_T1: Secure Digital Infrastructure-ACW-777373
 ## Server Configuration Overview
-This Virtual Machine hosts a static web server as outlined in the Secure Digital Infrastructure Module from the University of Hull
+This Virtual Machine hosts a static web server as outlined in the Secure Digital Infrastructure Module from the University of Hull.
 ### 1. Web Server
 - **Web server**: Nginx 1.24 (Ubuntu)
 - **Root directory**: `/srv/www`
